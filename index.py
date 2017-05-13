@@ -15,3 +15,5 @@ for i in range(body_len):
     for tr in table_row:
         value  = tr.get_text()
         the_row.append(value)
+
+        #Anto's Code
